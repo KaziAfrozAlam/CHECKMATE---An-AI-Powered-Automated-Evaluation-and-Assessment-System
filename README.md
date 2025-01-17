@@ -101,8 +101,8 @@ The Online Assessment System is a feature-rich web application designed for cond
 
 ## Developer 👨‍💻
 
-- Developed by: Azim Krishna
-- Contact: azimbaji19@gmail.com
+- Developed by: Kazi Afroz Alam, Jeffrey John
+- Contact: afrozalam.8760@gmail.com, jeffreyjohn02003@gmail.com
 - Feedback and Support 💌: I would love to hear your feedback on the Online Assessment System! If you have any suggestions, encounter issues, or need assistance, please feel free to reach out to me via email. Your feedback helps me improve and provide better solutions.
 
 Feel free to use this Online Assessment System and adapt it to your needs! 😃
